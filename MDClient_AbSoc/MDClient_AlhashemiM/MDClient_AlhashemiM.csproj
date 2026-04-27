@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AbSoc_AlhashemiM\AbSoc_AlhashemiM.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ConnectDlg_AlhashemiM_ICA06">
+      <HintPath>..\ConnectDlg_AlhashemiM_ICA06.dll</HintPath>
+    </Reference>
+    <Reference Include="MultiDraw2022">
+      <HintPath>..\MultiDraw2022.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
