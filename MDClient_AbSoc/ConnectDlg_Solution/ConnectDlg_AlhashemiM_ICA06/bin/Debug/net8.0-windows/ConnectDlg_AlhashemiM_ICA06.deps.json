@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConnectDlg_AlhashemiM_ICA06/1.0.0": {
+        "runtime": {
+          "ConnectDlg_AlhashemiM_ICA06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectDlg_AlhashemiM_ICA06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

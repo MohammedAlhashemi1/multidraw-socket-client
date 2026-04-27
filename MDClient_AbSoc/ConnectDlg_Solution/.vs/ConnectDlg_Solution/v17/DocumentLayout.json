@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1679EC-2E46-4B22-8599-9A33CE8F2B15}|ConnectDlg_AlhashemiM_ICA06\\ConnectDlg_AlhashemiM_ICA06.csproj|c:\\users\\m7mda\\onedrive\\documents\\github\\2800-repo-mohammed-alhash\\icas\\connectdlg_solution\\connectdlg_alhashemim_ica06\\cdlg_alhashemim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1679EC-2E46-4B22-8599-9A33CE8F2B15}|ConnectDlg_AlhashemiM_ICA06\\ConnectDlg_AlhashemiM_ICA06.csproj|solutionrelative:connectdlg_alhashemim_ica06\\cdlg_alhashemim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1679EC-2E46-4B22-8599-9A33CE8F2B15}|ConnectDlg_AlhashemiM_ICA06\\ConnectDlg_AlhashemiM_ICA06.csproj|C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\connectdlg_alhashemim_ica06\\cdlg_alhashemim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A1679EC-2E46-4B22-8599-9A33CE8F2B15}|ConnectDlg_AlhashemiM_ICA06\\ConnectDlg_AlhashemiM_ICA06.csproj|solutionrelative:connectdlg_alhashemim_ica06\\cdlg_alhashemim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1673E7F-C438-4410-94EC-27A48430ED0C}|ConnectDlgTestHarness\\ConnectDlgTestHarness.csproj|c:\\users\\m7mda\\onedrive\\documents\\github\\2800-repo-mohammed-alhash\\icas\\connectdlg_solution\\connectdlgtestharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1673E7F-C438-4410-94EC-27A48430ED0C}|ConnectDlgTestHarness\\ConnectDlgTestHarness.csproj|solutionrelative:connectdlgtestharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1673E7F-C438-4410-94EC-27A48430ED0C}|ConnectDlgTestHarness\\ConnectDlgTestHarness.csproj|C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\connectdlgtestharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1673E7F-C438-4410-94EC-27A48430ED0C}|ConnectDlgTestHarness\\ConnectDlgTestHarness.csproj|solutionrelative:connectdlgtestharness\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlgTestHarness\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectDlgTestHarness\\Form1.cs",
+              "ToolTip": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlgTestHarness\\Form1.cs",
+              "RelativeToolTip": "ConnectDlgTestHarness\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:13:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlgTestHarness\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectDlgTestHarness\\Form1.cs",
+              "ToolTip": "C:\\Users\\malhashemi1\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlgTestHarness\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\malhashemi1\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlgTestHarness\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:13:08.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDlg_AlhashemiM.cs",
+              "DocumentMoniker": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "RelativeDocumentMoniker": "ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "ToolTip": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "RelativeToolTip": "ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:13:08.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDlg_AlhashemiM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "RelativeDocumentMoniker": "ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs",
+              "ToolTip": "C:\\Users\\m7mda\\OneDrive\\Documents\\GitHub\\2800-repo-Mohammed-Alhash\\icas\\ConnectDlg_Solution\\ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs [Design]",
+              "RelativeToolTip": "ConnectDlg_AlhashemiM_ICA06\\CDlg_AlhashemiM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:13:08.748Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
